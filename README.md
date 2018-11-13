@@ -1,3 +1,5 @@
+bugfix done 
+
 # ict2x01 e-Lecture Week10
 This is an e-lecture done for SIT ICT2x01 students.
 
